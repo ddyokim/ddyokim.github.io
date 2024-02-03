@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800');
 
 body {
-	border-top: 10px solid #6667AB;
+	border-top: 10px solid #765B94;
 	margin: 0;
 	color: #333333;
 	background-color: #fff;
@@ -14,7 +14,7 @@ h1, h2, h3, h4 {
 	-webkit-margin-start: 0px;
 	-webkit-margin-end: 0px;
 
-	border-bottom: 10px solid #6667AB;
+	border-bottom: 10px solid #765B94;
 	display: inline-block;
 	color: #333333;
 	font-weight: 600;
@@ -66,11 +66,11 @@ header ul li {
 }
 
 .fa-brands, .fa-solid {
-	color: #6667AB;
+	color: #765B94;
 }
 
 header ul li i {
-	color: #6667AB;
+	color: #765B94;
 	padding-right: 5px;
 	padding-left: 5px;
 	font-size: 18px;
@@ -85,7 +85,7 @@ article h2 {
 }
 
 article .header {
-	color: #6667AB;
+	color: #765B94;
 	font-weight: 600;
 }
 
@@ -107,7 +107,7 @@ article .description {
 }
 
 article .exp-list .fa {
-	color: #6667AB;
+	color: #765B94;
 	padding-right: 5px;
 	font-size: 12px;
 }
@@ -136,7 +136,7 @@ article .tech ul li {
 
 article .tech span {
 	font-weight: 600;
-	color: #6667AB;
+	color: #765B94;
 }
 
 .icon-parent {
