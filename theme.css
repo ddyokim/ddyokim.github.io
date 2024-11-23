@@ -61,6 +61,11 @@ body {
   -o-object-fit: cover;
      object-fit: cover;
   margin-bottom: 18px;
+  transition: transform 0.3s ease;
+}
+
+.card__image:hover {
+  transform: scale(1.05);
 }
 
 @media (min-width: 576px) {
